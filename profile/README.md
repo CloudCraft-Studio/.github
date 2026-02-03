@@ -26,4 +26,4 @@ Trabajamos con diversas tecnologías y lenguajes de programación, adaptándonos
 
 **CloudCraft Studio** - La creatividad y el código se encuentran ☁️✨
 
-...y por supuesto que este texto no ha sido generado por IA, ni más faltaba.
+:warning: ¡por supuesto que este texto no ha sido generado por IA, ni más faltaba! :warning: 
